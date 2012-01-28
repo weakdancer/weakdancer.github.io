@@ -63,16 +63,16 @@ JB :
   # Set 'provider' to the comment provider you want to use.
   # Set 'provider' to false to turn commenting off globally.
   #
-  comments :
-    provider : disqus
-    disqus :
-      short_name : weakdancer
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      apikey : 123
+  # comments :
+    # provider : disqus
+    # disqus :
+      # short_name : weakdancer
+    # livefyre :
+      # site_id : 123
+    # intensedebate :
+      # account : 123abc
+    # facebook :
+      # apikey : 123
    
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
