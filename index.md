@@ -61,27 +61,11 @@
 
 	<fieldset>
 		<legend>ADDRS</legend>
-		<!--<h3>BITCOIN</h3>1GceceQyKFEgBYivDKQ7kaLFZAe4W24zZR
-		<h3>RIPPLE</h3>rLAqyfoScG1CkPt7QUosYnUt8JBmU6MfaS
-		<h3>收货地址</h3>郜帅	 湖南省 岳阳市 通海北路 海凌科技园	巅峰科技 414000	 17773052705-->
+		
 	</fieldset>
 </fieldset>
 
 
-	<!-- Duoshuo Comment BEGIN
-	<div class="ds-thread"></div>
-	<script type="text/javascript">
-	var duoshuoQuery = {short_name:"weakdancer"};
-	(function() {
-		var ds = document.createElement('script');
-		ds.type = 'text/javascript';ds.async = true;
-		ds.src = 'http://static.duoshuo.com/embed.js';
-		ds.charset = 'UTF-8';
-		(document.getElementsByTagName('head')[0]
-		|| document.getElementsByTagName('body')[0]).appendChild(ds);
-	})();
-	</script>
- Duoshuo Comment END -->
 </div>
 
 </body>
