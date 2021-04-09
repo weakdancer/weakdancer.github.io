@@ -4,10 +4,10 @@
 	<h1>正在种？2011</h1>
 	<h1>I'm getting lost.With exploration.2012？</h1>
 	<h1>正在殖？2013</h1>
-	<h1>？2014 ? <a href="https://web.archive.org/web/20181103133324/http://v.youku.com/v_show/id_XNzQyODc5NzIw.html?from=s1.8-1-1.2">Randomness</a></h1>
-	<h1>2015  <a href="https://web.archive.org/web/20181103133324/http://v.youku.com/v_show/id_XMTQ4NTE4OTkwMA==.html">Hustling</a></h1>
-	<h1>2016 <a href="https://web.archive.org/web/20181103133324/http://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=regression">regression</a> </h1>
-	<h1>2017 <a href="https://web.archive.org/web/20181103133324/http://www.etymonline.com/index.php?term=aware&amp;allowed_in_frame=0">AWARING</a> </h1>
+	<h1>？2014 ? <a href="http://v.youku.com/v_show/id_XNzQyODc5NzIw.html?from=s1.8-1-1.2">Randomness</a></h1>
+	<h1>2015  <a href="http://v.youku.com/v_show/id_XMTQ4NTE4OTkwMA==.html">Hustling</a></h1>
+	<h1>2016 <a href="http://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=regression">regression</a> </h1>
+	<h1>2017 <a href="http://www.etymonline.com/index.php?term=aware&amp;allowed_in_frame=0">AWARING</a> </h1>
 </fieldset>
 
 <fieldset>
@@ -31,7 +31,7 @@
 <fieldset>
 	<legend>GALLERYS</legend>
 	<h1><a href="gallery_test/index.html">gallery test</a></h1>
-	<h1><a href="https://web.archive.org/web/20181103133324/https://500px.com/weakdancer">weakdancer on 500px</a></h1>
+	<h1><a href="https://500px.com/weakdancer">weakdancer on 500px</a></h1>
 	<h1><a href="prj_html5_sae_video_showcase.html">prj_html5_sae_video_showcase</a></h1>
 </fieldset>
 
@@ -40,6 +40,7 @@
 	<legend>UPDATE LOG</legend>
 	<h1>2015.04.21</h1>确定栏目，增加画廊
 	<h1>2015.05.20</h1>去除没用内容到HISTORY
+	<h1>2021.04.9</h1>github pages
 </fieldset>
 
 
