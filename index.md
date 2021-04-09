@@ -50,10 +50,10 @@
 	<h3><a href="郜帅简历.pdf">简历</a></h3>
 	<h3><a href="RESUME.html">resume</a></h3>
 	<h3><a href="Portfolio.html">portfolio</a></h3>
-	<h3><a href="https://web.archive.org/web/20181103133324/http://myswap.sinaapp.com/wd/ex">myswap-explore</a></h3>
-	<h3><a href="https://web.archive.org/web/20181103133324/http://i.youku.com/weakdancer">youku</a></h3>
-	<h3><a href="https://web.archive.org/web/20181103133324/http://weakdancer.lofter.com/">tranlsate?</a></h3>
-	<h3><a href="https://web.archive.org/web/20181103133324/http://blog.weakdancer.com/">blog</a></h3>
+	<h3><a href="http://myswap.sinaapp.com/wd/ex">myswap-explore</a></h3>
+	<h3><a href="http://i.youku.com/weakdancer">youku</a></h3>
+	<h3><a href="http://weakdancer.lofter.com/">tranlsate?</a></h3>
+	
 
 
 </fieldset>
