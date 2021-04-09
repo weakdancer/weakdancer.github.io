@@ -1,37 +1,88 @@
-## Welcome to GitHub Pages
+<html>
+<div>
+<fieldset>
+	<legend>YEARS</legend>
+	<h1>正在种？2011</h1>
+	<h1>I'm getting lost.With exploration.2012？</h1>
+	<h1>正在殖？2013</h1>
+	<h1>？2014 ? <a href="https://web.archive.org/web/20181103133324/http://v.youku.com/v_show/id_XNzQyODc5NzIw.html?from=s1.8-1-1.2">Randomness</a></h1>
+	<h1>2015  <a href="https://web.archive.org/web/20181103133324/http://v.youku.com/v_show/id_XMTQ4NTE4OTkwMA==.html">Hustling</a></h1>
+	<h1>2016 <a href="https://web.archive.org/web/20181103133324/http://www.etymonline.com/index.php?allowed_in_frame=0&amp;search=regression">regression</a> </h1>
+	<h1>2017 <a href="https://web.archive.org/web/20181103133324/http://www.etymonline.com/index.php?term=aware&amp;allowed_in_frame=0">AWARING</a> </h1>
+</fieldset>
 
-You can use the [editor on GitHub](https://github.com/weakdancer/weakdancer.github.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<fieldset>
+	<legend>QUOTES</legend>
+	<p>
+	In nature we never repeat the same motion;in captivity(office,gym,commute,sports),life is just repetitive stress injury.       No  randomness. -- The Bed of Procrustes
+	</p>
+</fieldset>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<fieldset>
+	<legend>WORKS</legend>
+	<h1><a href="songfei.html">SEINFELD</a></h1>
+	<h1><a href="screenplay/">screenplay</a></h1>
+	<h1><a href="pingkangyin.html">《评康殷文字学》 -- 夏渌</a></h1>
+	<h1><a href="wd_inter_world/wd_inter_world.html">wd_inter_world</a></h1>
+</fieldset>
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+<fieldset>
+	<legend>GALLERYS</legend>
+	<h1><a href="gallery_test/index.html">gallery test</a></h1>
+	<h1><a href="https://web.archive.org/web/20181103133324/https://500px.com/weakdancer">weakdancer on 500px</a></h1>
+	<h1><a href="prj_html5_sae_video_showcase.html">prj_html5_sae_video_showcase</a></h1>
+</fieldset>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+<fieldset>
+	<legend>UPDATE LOG</legend>
+	<h1>2015.04.21</h1>确定栏目，增加画廊
+	<h1>2015.05.20</h1>去除没用内容到HISTORY
+</fieldset>
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+<fieldset>
+	<legend>HISTORY</legend>
+	<fieldset>
+		<legend>LINKS</legend>
+		<h3><a href="郜帅简历.pdf">简历</a></h3>
+		<h3><a href="RESUME.html">resume</a></h3>
+		<h3><a href="Portfolio.html">portfolio</a></h3>
+		<h3><a href="https://web.archive.org/web/20181103133324/http://myswap.sinaapp.com/wd/ex">myswap-explore</a></h3>
+		<h3><a href="https://web.archive.org/web/20181103133324/http://i.youku.com/weakdancer">youku</a></h3>
+		<h3><a href="https://web.archive.org/web/20181103133324/http://weakdancer.lofter.com/">tranlsate?</a></h3>
+		<h3><a href="https://web.archive.org/web/20181103133324/http://blog.weakdancer.com/">blog</a></h3>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+	</fieldset>
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/weakdancer/weakdancer.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+	<fieldset>
+		<legend>ADDRS</legend>
+		<!--<h3>BITCOIN</h3>1GceceQyKFEgBYivDKQ7kaLFZAe4W24zZR
+		<h3>RIPPLE</h3>rLAqyfoScG1CkPt7QUosYnUt8JBmU6MfaS
+		<h3>收货地址</h3>郜帅	 湖南省 岳阳市 通海北路 海凌科技园	巅峰科技 414000	 17773052705-->
+	</fieldset>
+</fieldset>
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+	<!-- Duoshuo Comment BEGIN
+	<div class="ds-thread"></div>
+	<script type="text/javascript">
+	var duoshuoQuery = {short_name:"weakdancer"};
+	(function() {
+		var ds = document.createElement('script');
+		ds.type = 'text/javascript';ds.async = true;
+		ds.src = 'http://static.duoshuo.com/embed.js';
+		ds.charset = 'UTF-8';
+		(document.getElementsByTagName('head')[0]
+		|| document.getElementsByTagName('body')[0]).appendChild(ds);
+	})();
+	</script>
+ Duoshuo Comment END -->
+</div>
+
+</body>
+</html>
