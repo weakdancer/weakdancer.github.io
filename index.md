@@ -1,5 +1,4 @@
-<html>
-<div>
+
 <fieldset>
 	<legend>YEARS</legend>
 	<h1>正在种？2011</h1>
@@ -59,7 +58,3 @@
 </fieldset>
 
 
-</div>
-
-</body>
-</html>
